@@ -3,8 +3,8 @@ class Chatdash < Formula
 
   desc "One local board for every Claude Code chat across your accounts"
   homepage "https://github.com/Dv04/chatdash"
-  url "https://github.com/Dv04/chatdash/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0859798f48a2462d162ecbaad862d1d064b32e9d72b6f77ee578e300fed891c9"
+  url "https://github.com/Dv04/chatdash/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "b5f5e2efdfb1478ed87c9fa479daf6f938344c7dfc8a31b2c97905ed8e163a28"
   license "MIT"
 
   depends_on "python-setuptools" => :build
