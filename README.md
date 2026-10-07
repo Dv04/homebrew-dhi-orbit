@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Dv04/dhi-orbit/main/docs/brand/orbit-lockup-dark.png" alt="DHI Orbit" width="360"></p>
+
 # Homebrew tap for dhi-orbit
 
 ```sh
