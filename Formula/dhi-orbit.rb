@@ -3,8 +3,8 @@ class DhiOrbit < Formula
 
   desc "DHI Orbit: one local board for every Claude Code chat across your accounts"
   homepage "https://github.com/Dv04/dhi-orbit"
-  url "https://github.com/Dv04/dhi-orbit/archive/refs/tags/v0.3.12.tar.gz"
-  sha256 "b82a715b850c894119e11628845205e391f62f44434c2afa1e886b2f8b0ba5ae"
+  url "https://github.com/Dv04/dhi-orbit/archive/refs/tags/v0.3.13.tar.gz"
+  sha256 "2b959af62c0dc009383e30374b944a18d653c148e5cf448e11480622a1fe4831"
   license "MIT"
 
   depends_on "python-setuptools" => :build
